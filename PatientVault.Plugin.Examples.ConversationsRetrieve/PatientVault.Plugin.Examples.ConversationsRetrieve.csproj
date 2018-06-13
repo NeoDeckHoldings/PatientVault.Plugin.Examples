@@ -34,24 +34,20 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Bridges.Contract.Dto, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\PatientVault.Plugin.1.0.18\lib\net40\Bridges.Contract.Dto.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\packages\PatientVault.Plugin.1.0.21\lib\net40\Bridges.Contract.Dto.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.AspNet.SignalR.Client, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNet.SignalR.Client.2.1.0\lib\net45\Microsoft.AspNet.SignalR.Client.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.6.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="PatientVault.Plugin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\PatientVault.Plugin.1.0.18\lib\net40\PatientVault.Plugin.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\packages\PatientVault.Plugin.1.0.21\lib\net40\PatientVault.Plugin.dll</HintPath>
     </Reference>
     <Reference Include="PatientVault.PluginDotNet40, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\PatientVault.Plugin.1.0.18\lib\net40\PatientVault.PluginDotNet40.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\packages\PatientVault.Plugin.1.0.21\lib\net40\PatientVault.PluginDotNet40.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

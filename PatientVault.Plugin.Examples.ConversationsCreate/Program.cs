@@ -13,8 +13,8 @@ namespace PatientVault.Plugin.Examples.ConversationsCreate
         {
             var configuration = new PatientVaultConfiguration();
             configuration.ApiRootUrl = @"https://test.neodecksoftware.com/pv/patientvaultapi";
-            configuration.ApiKey = "";
-            configuration.DevKey = "";
+            configuration.ApiKey = "qDdSdpytAUK8fq2jb7H6byaySSWHsAUhHQWCdHbFu3xPAV3GuXwZy9VEhDgzD5DfFUwqXu32unPXG37aPFQYryWzYK7Vw8nXDDK4";
+            configuration.DevKey = "1467C153-6F78-4375-A2E2-A4D20B73EF22";
             configuration.CustomerKey = "";
             configuration.Culture = "en";
             configuration.TimeZone = "SA Western Standard Time";
@@ -39,7 +39,7 @@ namespace PatientVault.Plugin.Examples.ConversationsCreate
         /// <summary>
         ///  Access Token Received from Authentication
         /// </summary>
-        private static string accessToken = "";
+        private static string accessToken = "b6012a2e5b6ad562082956d125b16a8d04eb1f6b";
 
         /// <summary>
         ///  Conversation Group Id that was obtained from Conversation Create Group
