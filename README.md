@@ -9,3 +9,7 @@ https://patientvault.docs.apiary.io/
 
 For more information about Patient Vault, visit our site at: 
 https://patientvault.com/
+
+# API KEY #
+
+Note that to post data to Patients using the API you need an API key, to obtain the API key please email developers@patientvault.com
